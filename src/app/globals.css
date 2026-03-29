@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: #0a0a0a;
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #BB0000; border-radius: 2px; }
+
+.img-placeholder {
+  background: #1e1e1e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.2);
+  font-size: 0.875rem;
+}
+
+/* Text shadow for text over images */
+.text-over-image {
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.8), 0 1px 6px rgba(0, 0, 0, 0.9);
+}
+
+/* Buttons - larger, bolder, more visible */
+.btn-primary {
+  @apply px-7 py-3.5 bg-scarlet text-white font-semibold tracking-wide uppercase text-sm
+    transition-all duration-200 hover:bg-scarlet-light active:scale-[0.98];
+}
+
+.btn-outline {
+  @apply px-7 py-3.5 border-2 border-white/40 text-white font-semibold tracking-wide uppercase text-sm
+    transition-all duration-200 hover:bg-white/10 hover:border-white/70;
+}
+
+/* Section container - better mobile padding */
+.section-padding {
+  @apply px-5 sm:px-8 lg:px-12 max-w-6xl mx-auto;
+}
+
+.day-tab-active {
+  @apply bg-scarlet text-white;
+}
+
+.divider {
+  @apply w-12 h-[2px] bg-scarlet;
+}
+
+/* Admin styles */
+.admin-card {
+  @apply bg-gray-850 rounded-lg p-5 sm:p-6 border border-white/5 hover:border-scarlet/20 transition-all duration-200;
+}
+
+.admin-input {
+  @apply w-full bg-gray-900 border border-white/10 rounded px-4 py-3 text-white text-base placeholder-white/30
+    focus:outline-none focus:border-scarlet transition-all;
+}
+
+.admin-btn {
+  @apply px-5 py-2.5 bg-scarlet text-white font-semibold rounded text-sm
+    hover:bg-scarlet-light transition-all duration-200 active:scale-[0.97];
+}
+
+.admin-btn-danger {
+  @apply px-5 py-2.5 bg-red-800 text-white font-semibold rounded text-sm
+    hover:bg-red-700 transition-all duration-200 active:scale-[0.97];
+}

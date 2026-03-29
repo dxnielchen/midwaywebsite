@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hero-1",
+    "url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1920&q=80",
+    "alt": "Midway bar interior",
+    "order": 0
+  },
+  {
+    "id": "hero-2",
+    "url": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1920&q=80",
+    "alt": "Midway nightlife atmosphere",
+    "order": 1
+  },
+  {
+    "id": "hero-3",
+    "url": "https://images.unsplash.com/photo-1574155088851-0c770818ba40?w=1920&q=80",
+    "alt": "Midway crowd scene",
+    "order": 2
+  }
+]

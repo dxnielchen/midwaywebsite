@@ -1,0 +1,20 @@
+[
+  {
+    "id": "party-1",
+    "url": "https://images.unsplash.com/photo-1629725295147-f52884410706?w=1920&q=80",
+    "alt": "Party at Midway",
+    "order": 0
+  },
+  {
+    "id": "party-2",
+    "url": "https://images.unsplash.com/photo-1574155376612-bfa4ed8aabfd?w=1920&q=80",
+    "alt": "Celebration at Midway",
+    "order": 1
+  },
+  {
+    "id": "party-3",
+    "url": "https://images.unsplash.com/photo-1622909695587-4d2b5ca04b78?w=1920&q=80",
+    "alt": "Nightlife at Midway",
+    "order": 2
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "WebSearch",
+      "WebFetch(domain:www.dantenyc.com)",
+      "WebFetch(domain:www.deathandcompany.com)",
+      "WebFetch(domain:www.thedeadrabbit.com)",
+      "WebFetch(domain:www.eskimojoes.com)",
+      "WebFetch(domain:www.marquee.com)",
+      "WebFetch(domain:www.hiibiza.com)",
+      "WebFetch(domain:www.thesink.com)",
+      "WebFetch(domain:www.thetombs.com)",
+      "WebFetch(domain:www.marqueeny.com)",
+      "WebFetch(domain:www.dixiechicken.com)",
+      "WebFetch(domain:www.sundayvinyl.com)",
+      "WebFetch(domain:www.upandupnyc.com)",
+      "WebFetch(domain:taogroup.com)",
+      "WebFetch(domain:www.berghain.berlin)",
+      "WebFetch(domain:www.chineselaundry.com.au)",
+      "WebFetch(domain:www.getbento.com)",
+      "WebFetch(domain:www.upmenu.com)",
+      "WebFetch(domain:blog.hubspot.com)",
+      "WebFetch(domain:www.operationtechnology.com)",
+      "WebFetch(domain:www.fabriclondon.com)",
+      "WebFetch(domain:www.barswift.com)",
+      "WebFetch(domain:unsplash.com)"
+    ]
+  }
+}

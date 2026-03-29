@@ -1,0 +1,178 @@
+[
+  {
+    "id": "sig-1",
+    "name": "Acid Trip (Red/Blue/Yellow)",
+    "description": "Our signature drink — $10 first buy, $5 refills on Thursdays.",
+    "price": "$10",
+    "category": "Signature Drinks",
+    "image": "https://images.unsplash.com/photo-1615887023516-9b6bcd559e87?w=600&q=80"
+  },
+  {
+    "id": "v-1",
+    "name": "Wells",
+    "description": "House vodka, your way.",
+    "price": "$4.50",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-2",
+    "name": "Tito's",
+    "description": "Handmade. Smooth and clean.",
+    "price": "$6.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-3",
+    "name": "Deep Eddy",
+    "description": "Flavored vodka line — peach, lemon, cranberry.",
+    "price": "$6.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-4",
+    "name": "Grey Goose / Ciroc / Ketel One",
+    "description": "Premium vodka selections.",
+    "price": "$8.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "w-1",
+    "name": "Wells",
+    "description": "House whiskey.",
+    "price": "$4.50",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-2",
+    "name": "Jack Daniel's / Jim Beam / Fireball",
+    "description": "Classic go-to whiskeys.",
+    "price": "$6.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-3",
+    "name": "Crown Royal / Jameson / Maker's Mark",
+    "description": "Step it up a notch.",
+    "price": "$7.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-4",
+    "name": "Woodford Reserve",
+    "description": "Top shelf bourbon.",
+    "price": "$8.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "r-1",
+    "name": "Wells",
+    "description": "House rum.",
+    "price": "$4.50",
+    "category": "Rum",
+    "image": ""
+  },
+  {
+    "id": "r-2",
+    "name": "Captain Morgan / Malibu / Cruzan / 151",
+    "description": "All the rum favorites.",
+    "price": "$6.00",
+    "category": "Rum",
+    "image": ""
+  },
+  {
+    "id": "t-1",
+    "name": "Wells",
+    "description": "House tequila.",
+    "price": "$4.50",
+    "category": "Tequila",
+    "image": ""
+  },
+  {
+    "id": "t-2",
+    "name": "Patron / Don Julio",
+    "description": "Premium tequila selections.",
+    "price": "$8.00",
+    "category": "Tequila",
+    "image": ""
+  },
+  {
+    "id": "g-1",
+    "name": "Wells",
+    "description": "House gin.",
+    "price": "$4.50",
+    "category": "Gin",
+    "image": ""
+  },
+  {
+    "id": "g-2",
+    "name": "Bombay Sapphire",
+    "description": "Premium London dry gin.",
+    "price": "$8.00",
+    "category": "Gin",
+    "image": ""
+  },
+  {
+    "id": "s-1",
+    "name": "Bud Light Seltzer",
+    "description": "Light and refreshing seltzer.",
+    "price": "$4.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "s-2",
+    "name": "White Claw / Truly",
+    "description": "Fan favorites.",
+    "price": "$5.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "s-3",
+    "name": "High Noon / Monaco",
+    "description": "Premium canned cocktails.",
+    "price": "$6.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "cb-1",
+    "name": "Bud Light / Budweiser",
+    "description": "Classic domestics.",
+    "price": "$4.50",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-2",
+    "name": "Corona / Guinness / Land Grant",
+    "description": "Import and craft cans.",
+    "price": "$5.00",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "db-1",
+    "name": "Natty Light",
+    "description": "The college classic.",
+    "price": "$4.00",
+    "category": "Draft Beer",
+    "image": ""
+  },
+  {
+    "id": "db-2",
+    "name": "Rhinegeist Truth / Budweiser / Purple Haze",
+    "description": "Rotating craft and domestic drafts.",
+    "price": "$5.00",
+    "category": "Draft Beer",
+    "image": ""
+  }
+]

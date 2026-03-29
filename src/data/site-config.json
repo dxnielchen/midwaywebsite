@@ -1,0 +1,25 @@
+{
+  "name": "Midway on High",
+  "tagline": "Columbus' Premier College Bar",
+  "address": "1728 N High St, Columbus, OH 43201",
+  "phone": "(614) 824-1397",
+  "email": "info@midwayonhigh.com",
+  "hours": {
+    "wednesday": "8:00 PM - 2:00 AM",
+    "thursday": "8:00 PM - 2:00 AM",
+    "friday": "2:00 PM - 2:00 AM",
+    "saturday": "4:00 PM - 2:00 AM (varies game days)",
+    "sunday": "Closed",
+    "monday": "Closed",
+    "tuesday": "Closed"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/midwayonhigh/",
+    "twitter": "https://twitter.com/midwayonhigh",
+    "tiktok": "https://www.tiktok.com/@midwayonhigh"
+  },
+  "bookingUrl": "#",
+  "workFormUrl": "https://docs.google.com/forms",
+  "ambassadorFormUrl": "https://www.arcampusimpact.com",
+  "instagramEmbedUrl": "https://www.instagram.com/midwayonhigh/"
+}
