@@ -62,7 +62,7 @@ export default function Navbar() {
           {/* Social + Mobile Toggle */}
           <div className="flex items-center gap-4">
             <a
-              href="https://www.instagram.com/midwayonhigh/"
+              href="https://www.instagram.com/midwayonhigh"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/50 hover:text-white transition-colors hidden sm:block"

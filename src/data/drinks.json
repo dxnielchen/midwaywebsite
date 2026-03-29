@@ -1,40 +1,72 @@
 [
   {
     "id": "sig-1",
-    "name": "Acid Trip (Red/Blue/Yellow)",
-    "description": "Our signature drink — $10 first buy, $5 refills on Thursdays.",
+    "name": "Acid Trip (NEW!) — Red, Blue or Yellow",
+    "description": "$10 first buy, $5 refills on Thursday's",
     "price": "$10",
-    "category": "Signature Drinks",
-    "image": "https://images.unsplash.com/photo-1615887023516-9b6bcd559e87?w=600&q=80"
+    "category": "Signature",
+    "image": ""
   },
   {
     "id": "v-1",
     "name": "Wells",
-    "description": "House vodka, your way.",
+    "description": "",
     "price": "$4.50",
     "category": "Vodka",
     "image": ""
   },
   {
     "id": "v-2",
-    "name": "Tito's",
-    "description": "Handmade. Smooth and clean.",
-    "price": "$6.00",
+    "name": "Pink Whitney",
+    "description": "",
+    "price": "$4.50",
     "category": "Vodka",
     "image": ""
   },
   {
     "id": "v-3",
-    "name": "Deep Eddy",
-    "description": "Flavored vodka line — peach, lemon, cranberry.",
-    "price": "$6.00",
+    "name": "Smirnoff Flavors",
+    "description": "",
+    "price": "$5.00",
     "category": "Vodka",
     "image": ""
   },
   {
     "id": "v-4",
-    "name": "Grey Goose / Ciroc / Ketel One",
-    "description": "Premium vodka selections.",
+    "name": "Titos",
+    "description": "",
+    "price": "$6.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-5",
+    "name": "Absolut",
+    "description": "",
+    "price": "$6.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-6",
+    "name": "Grey Goose",
+    "description": "",
+    "price": "$8.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-7",
+    "name": "Ciroc Flavors",
+    "description": "",
+    "price": "$8.00",
+    "category": "Vodka",
+    "image": ""
+  },
+  {
+    "id": "v-8",
+    "name": "Ketel One",
+    "description": "",
     "price": "$8.00",
     "category": "Vodka",
     "image": ""
@@ -42,31 +74,79 @@
   {
     "id": "w-1",
     "name": "Wells",
-    "description": "House whiskey.",
+    "description": "",
     "price": "$4.50",
     "category": "Whiskey",
     "image": ""
   },
   {
     "id": "w-2",
-    "name": "Jack Daniel's / Jim Beam / Fireball",
-    "description": "Classic go-to whiskeys.",
+    "name": "Jack Daniels",
+    "description": "",
     "price": "$6.00",
     "category": "Whiskey",
     "image": ""
   },
   {
     "id": "w-3",
-    "name": "Crown Royal / Jameson / Maker's Mark",
-    "description": "Step it up a notch.",
-    "price": "$7.00",
+    "name": "Jack Honey",
+    "description": "",
+    "price": "$6.00",
     "category": "Whiskey",
     "image": ""
   },
   {
     "id": "w-4",
+    "name": "Jameson",
+    "description": "",
+    "price": "$6.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-5",
+    "name": "Crown (plus flavors)",
+    "description": "",
+    "price": "$6.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-6",
+    "name": "Fireball",
+    "description": "",
+    "price": "$6.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-7",
+    "name": "Makers Mark",
+    "description": "",
+    "price": "$7.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-8",
+    "name": "Bulleit",
+    "description": "",
+    "price": "$7.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-9",
+    "name": "Bulleit Rye",
+    "description": "",
+    "price": "$7.00",
+    "category": "Whiskey",
+    "image": ""
+  },
+  {
+    "id": "w-10",
     "name": "Woodford Reserve",
-    "description": "Top shelf bourbon.",
+    "description": "",
     "price": "$8.00",
     "category": "Whiskey",
     "image": ""
@@ -74,15 +154,39 @@
   {
     "id": "r-1",
     "name": "Wells",
-    "description": "House rum.",
+    "description": "",
     "price": "$4.50",
     "category": "Rum",
     "image": ""
   },
   {
     "id": "r-2",
-    "name": "Captain Morgan / Malibu / Cruzan / 151",
-    "description": "All the rum favorites.",
+    "name": "Captain Morgan",
+    "description": "",
+    "price": "$6.00",
+    "category": "Rum",
+    "image": ""
+  },
+  {
+    "id": "r-3",
+    "name": "Malibu",
+    "description": "",
+    "price": "$6.00",
+    "category": "Rum",
+    "image": ""
+  },
+  {
+    "id": "r-4",
+    "name": "Cruzan",
+    "description": "",
+    "price": "$6.00",
+    "category": "Rum",
+    "image": ""
+  },
+  {
+    "id": "r-5",
+    "name": "151",
+    "description": "",
     "price": "$6.00",
     "category": "Rum",
     "image": ""
@@ -90,15 +194,39 @@
   {
     "id": "t-1",
     "name": "Wells",
-    "description": "House tequila.",
+    "description": "",
     "price": "$4.50",
     "category": "Tequila",
     "image": ""
   },
   {
     "id": "t-2",
-    "name": "Patron / Don Julio",
-    "description": "Premium tequila selections.",
+    "name": "Espolon",
+    "description": "",
+    "price": "$6.00",
+    "category": "Tequila",
+    "image": ""
+  },
+  {
+    "id": "t-3",
+    "name": "Jose Cuervo",
+    "description": "",
+    "price": "$6.00",
+    "category": "Tequila",
+    "image": ""
+  },
+  {
+    "id": "t-4",
+    "name": "Patron",
+    "description": "",
+    "price": "$8.00",
+    "category": "Tequila",
+    "image": ""
+  },
+  {
+    "id": "t-5",
+    "name": "Don Julio",
+    "description": "",
     "price": "$8.00",
     "category": "Tequila",
     "image": ""
@@ -106,15 +234,31 @@
   {
     "id": "g-1",
     "name": "Wells",
-    "description": "House gin.",
+    "description": "",
     "price": "$4.50",
     "category": "Gin",
     "image": ""
   },
   {
     "id": "g-2",
+    "name": "Beefeater",
+    "description": "",
+    "price": "$6.00",
+    "category": "Gin",
+    "image": ""
+  },
+  {
+    "id": "g-3",
+    "name": "Tanqueray",
+    "description": "",
+    "price": "$7.00",
+    "category": "Gin",
+    "image": ""
+  },
+  {
+    "id": "g-4",
     "name": "Bombay Sapphire",
-    "description": "Premium London dry gin.",
+    "description": "",
     "price": "$8.00",
     "category": "Gin",
     "image": ""
@@ -122,39 +266,119 @@
   {
     "id": "s-1",
     "name": "Bud Light Seltzer",
-    "description": "Light and refreshing seltzer.",
+    "description": "",
     "price": "$4.00",
     "category": "Seltzers",
     "image": ""
   },
   {
     "id": "s-2",
-    "name": "White Claw / Truly",
-    "description": "Fan favorites.",
-    "price": "$5.00",
+    "name": "Smirnoff Ice",
+    "description": "",
+    "price": "$4.00",
     "category": "Seltzers",
     "image": ""
   },
   {
     "id": "s-3",
-    "name": "High Noon / Monaco",
-    "description": "Premium canned cocktails.",
+    "name": "White Claw",
+    "description": "",
+    "price": "$5.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "s-4",
+    "name": "High Noon",
+    "description": "",
+    "price": "$6.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "s-5",
+    "name": "Monaco 69",
+    "description": "",
+    "price": "$6.00",
+    "category": "Seltzers",
+    "image": ""
+  },
+  {
+    "id": "s-6",
+    "name": "Monaco Mule",
+    "description": "",
     "price": "$6.00",
     "category": "Seltzers",
     "image": ""
   },
   {
     "id": "cb-1",
-    "name": "Bud Light / Budweiser",
-    "description": "Classic domestics.",
+    "name": "Bud Light",
+    "description": "",
     "price": "$4.50",
     "category": "Canned Beer",
     "image": ""
   },
   {
     "id": "cb-2",
-    "name": "Corona / Guinness / Land Grant",
-    "description": "Import and craft cans.",
+    "name": "Budweiser",
+    "description": "",
+    "price": "$4.50",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-3",
+    "name": "Bud Light Platinum",
+    "description": "",
+    "price": "$4.50",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-4",
+    "name": "Michelob Ultra",
+    "description": "",
+    "price": "$4.50",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-5",
+    "name": "Yuengling",
+    "description": "",
+    "price": "$4.50",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-6",
+    "name": "Corona",
+    "description": "",
+    "price": "$5.00",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-7",
+    "name": "Guinness",
+    "description": "",
+    "price": "$5.00",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-8",
+    "name": "Land Grant Stiff Arm",
+    "description": "",
+    "price": "$5.00",
+    "category": "Canned Beer",
+    "image": ""
+  },
+  {
+    "id": "cb-9",
+    "name": "Rhinegeist Bubbles",
+    "description": "",
     "price": "$5.00",
     "category": "Canned Beer",
     "image": ""
@@ -162,15 +386,31 @@
   {
     "id": "db-1",
     "name": "Natty Light",
-    "description": "The college classic.",
+    "description": "",
     "price": "$4.00",
     "category": "Draft Beer",
     "image": ""
   },
   {
     "id": "db-2",
-    "name": "Rhinegeist Truth / Budweiser / Purple Haze",
-    "description": "Rotating craft and domestic drafts.",
+    "name": "Budweiser",
+    "description": "",
+    "price": "$5.00",
+    "category": "Draft Beer",
+    "image": ""
+  },
+  {
+    "id": "db-3",
+    "name": "Rhinegeist Truth",
+    "description": "",
+    "price": "$5.00",
+    "category": "Draft Beer",
+    "image": ""
+  },
+  {
+    "id": "db-4",
+    "name": "Purple Haze",
+    "description": "",
     "price": "$5.00",
     "category": "Draft Beer",
     "image": ""

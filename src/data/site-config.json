@@ -1,6 +1,7 @@
 {
   "name": "Midway on High",
   "tagline": "Columbus' Premier College Bar",
+  "description": "Midway is a one-of-a-kind venue and bar located in the heart of Ohio State's campus with an all star staff and nightly DJ's, serving up strong drinks and a hell of a time.",
   "address": "1728 N High St, Columbus, OH 43201",
   "phone": "(614) 824-1397",
   "email": "info@midwayonhigh.com",
@@ -14,12 +15,12 @@
     "tuesday": "Closed"
   },
   "social": {
-    "instagram": "https://www.instagram.com/midwayonhigh/",
+    "instagram": "https://www.instagram.com/midwayonhigh",
     "twitter": "https://twitter.com/midwayonhigh",
     "tiktok": "https://www.tiktok.com/@midwayonhigh"
   },
   "bookingUrl": "#",
-  "workFormUrl": "https://docs.google.com/forms",
-  "ambassadorFormUrl": "https://www.arcampusimpact.com",
-  "instagramEmbedUrl": "https://www.instagram.com/midwayonhigh/"
+  "workFormUrl": "https://forms.gle/53ZqxvduCB5kG72e6",
+  "ambassadorFormUrl": "http://arcampusimpact.com/application/",
+  "instagramEmbedUrl": "https://www.instagram.com/midwayonhigh"
 }

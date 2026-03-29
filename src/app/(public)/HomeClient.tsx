@@ -54,7 +54,7 @@ export default function HomeClient({ photos, config }: HomeClientProps) {
             <span>Wed &ndash; Sat &middot; Open till 2AM</span>
           </div>
           <a
-            href="https://www.instagram.com/midwayonhigh/"
+            href="https://www.instagram.com/midwayonhigh"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-2"

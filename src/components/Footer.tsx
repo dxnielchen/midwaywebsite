@@ -50,7 +50,7 @@ export default function Footer() {
               <p>(614) 824-1397</p>
               <div className="flex gap-4 pt-2">
                 <a
-                  href="https://www.instagram.com/midwayonhigh/"
+                  href="https://www.instagram.com/midwayonhigh"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/30 hover:text-scarlet transition-colors"
